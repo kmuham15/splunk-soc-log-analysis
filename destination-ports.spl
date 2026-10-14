@@ -1,0 +1,4 @@
+index=* sourcetype=WinEventLog:Security
+| where isnotnull(Destination_Port)
+| stats count by Destination_Port
+| sort - count
