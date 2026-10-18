@@ -14,4 +14,4 @@ index=* sourcetype=WinEventLog:Security
 Use field-level context and event counts to prioritize investigation. High event volume alone does not confirm a threat.
 
 ## Screenshot evidence
-![Data Ingestion Pipeline] <img width="1076" height="661" alt="firewall traffic allowed WT" src="https://github.com/user-attachments/assets/1caafe82-ff0d-4de1-b603-afec1f031016" />
+![Data Ingestion Pipeline] 
